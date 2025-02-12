@@ -1,10 +1,10 @@
-# Key Patterns: Software Engineering with AI
+# Key Patterns: Software Engineering with Github Copilot
 
-## Code Understanding
+## Understanding a Codebase
 
 We often have to work in existing codebases and one of the key pieces of friction we encounter when we do that is understanding the work of engineers that came before us.
 
-The [code-understanding](./code-understanding/) folder contains an example of using AI to help you quickly get a better understanding of the structure of a file from the Linux kernel.
+The [code-understanding](./code-understanding/) folder contains an example of using Github Copilot to help get a better understanding of the structure of a file from the Linux kernel.
 
 ## Code Generation
 
@@ -12,8 +12,8 @@ Of course, one of the core activities of any software engineer is code generatio
 
 The [code-generation](./code-generation/) folder contains an exercise to help you build intuition around this.
 
-## Code Modernization
+## Application Modernization
 
-Another common task in Software Engineering is to modernize a codebase. It is not uncommon to have legacy code in an organization that we want to migrate to a modern approach.
+Another common task in Software Engineering is to modernize an application. It is not uncommon to have legacy code in an organization that we want to migrate to a modern approach.
 
-In [code-modernization](./code-modernization/), we will show how we can use AI to help us easily migrate a very old Motif X11 application to React.
+In [app-modernization](./app-modernization/), we will show how we can use Github Copilot to help us migrate a very old legacy Motif X11 application to a modern React web application.
