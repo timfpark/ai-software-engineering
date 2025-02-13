@@ -12,8 +12,8 @@ With Github Copilot, we can now have a super experienced pair programmer that we
 
 Github Copilot should talk you through a list of critical functions that this implementation provides that gives us a good high level overview of the implementation.
 
-2. Let's say that we have been asked to work on the `copy_process` function in `fork.c`, so let's focus in ask Github Copilot about that:
+2. Let's say that we have been asked to work on the `run` function in `server.go`, so let's focus in ask Github Copilot about that:
 
-"How does the implementation of copy_process work?"
+"Give me an explanation of how the run function works"
 
 Github Copilot should talk you through a simple flow for how the implementation works that helps you understand the overall implementation.

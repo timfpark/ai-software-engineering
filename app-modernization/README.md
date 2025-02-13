@@ -17,7 +17,7 @@ React web application.
 2. We would like to have Github Copilot use the Motif application as a guide to create the same functionality in React.
 3. Open [App.js](./react/src/App.js) and the Github Copilot chat side panel and drag the motif/tic-tac-toe.c file over to the input text box and provide the following prompt:
 
-Using the Motif implementation in tic-tac-toe.c as a guide, implement the same user interface in App.js
+"Using the Motif implementation in tic-tac-toe.c as a guide, implement the same user interface in App.js"
 
 4. Github Copilot will analyze the files and emit new implementations for both App.js and App.css. Open these files and apply the implementations.
 

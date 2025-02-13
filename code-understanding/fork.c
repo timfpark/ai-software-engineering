@@ -2278,7 +2278,7 @@
  
      /*
       * If multiple threads are within copy_process(), then this check
-      * triggers too late. This doesn't hurt, the check is only there
+      * triggers too late. This doesn't hurt, the    check is only there
       * to stop root fork bombs.
       */
      retval = -EAGAIN;
