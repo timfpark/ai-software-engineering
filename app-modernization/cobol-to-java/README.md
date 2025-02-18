@@ -10,7 +10,7 @@ migratation of a COBOL Mainframe application to a modern Java application.
 3. Let's ask Github Copilot what this COBOL application does:
 
 ```
-Explain what this COBOL application does"
+Explain what this COBOL application does
 ```
 
 ## Java
@@ -20,7 +20,7 @@ Explain what this COBOL application does"
 3. Open [App.java](./java/src/main/java/com/example/App.java) and the Github Copilot chat side panel and drag the `cobol/DBCBEX16.cbl` file over to the input text box and provide the following prompt:
 
 ```
-Using the COBOL implementation in DBCBEX16.cbl as a guide, implement the same user interface in App.java"
+Using the COBOL implementation in DBCBEX16.cbl as a guide, implement the same user interface in App.java
 ```
 
 4. Github Copilot will analyze the files and emit a new implementations for both App.java.

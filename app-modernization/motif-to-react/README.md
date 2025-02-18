@@ -10,7 +10,7 @@ React web application.
 2. This is a Motif X11 application that implements a basic Tic Tac Toe application. Understand the code better using Github Copilot:
 
 ```
-Explain what user interface this application provides to the user"
+Explain what user interface this application provides to the user
 ```
 
 ## React Application
@@ -20,7 +20,7 @@ Explain what user interface this application provides to the user"
 3. Open [App.js](./react/src/App.js) and the Github Copilot chat side panel and drag the motif/tic-tac-toe.c file over to the input text box and provide the following prompt:
 
 ```
-Using the Motif implementation in tic-tac-toe.c as a guide, implement the same user interface in App.js"
+Using the Motif implementation in tic-tac-toe.c as a guide, implement the same user interface in App.js
 ```
 
 4. Github Copilot will analyze the files and emit new implementations for both App.js and App.css. Open these files and apply the implementations.
