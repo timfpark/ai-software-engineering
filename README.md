@@ -10,7 +10,10 @@ The [code-understanding](./code-understanding/) folder contains an example of us
 
 Another common task in software engineering is to modernize an application. It is not uncommon to have legacy code in an organization that we want to migrate to a modern approach.
 
-In [app-modernization](./app-modernization/), we will show how we can use GitHub Copilot to help us migrate a very old legacy Motif X11 application to a modern React web application.
+In [app-modernization](./app-modernization/), two examples of this are captured here:
+
+- [Motif to React](./app-modernization/motif-to-react/): Using AI to help us migrate a very old legacy Motif X11 application to a modern React web application.
+- [COBOL to Java](./app-modernization/cobol-to-java/): Using AI to help us migrate a very old COBOL report generation application to Java.
 
 ## Code Creation
 
