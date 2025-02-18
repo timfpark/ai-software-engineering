@@ -8,6 +8,10 @@
  * This program is -not- in the public domain.
  */
 
+/* 
+* Original code: https://github.com/spartrekus/Motif-C-Examples/blob/master/tictactoe.c
+*/
+
 /* tictactoe.c -- demonstrate how fractionBase and XmATTACH_POSITIONs
  * work in Form widgets.
  */
