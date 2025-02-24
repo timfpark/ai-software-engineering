@@ -6,7 +6,7 @@ We often have to work in existing codebases, and one of the key pieces of fricti
 
 Examples:
 
-- [Kubernetes source code file](./code-understanding/README.md): Using AI to help us understand the function of an existing Go file in the Kubernetes project.
+- [Kubernetes source code](./code-understanding/): Using AI to help us understand the function of an existing Go file in the Kubernetes project.
 
 ## Application Modernization
 
@@ -23,7 +23,8 @@ Of course, one of the core activities of any software engineer is creating new c
 
 Examples:
 
-- [Generating Rust deserialization structs from JSON payloads](./code-creation/README.md)
+- [AI assisted ADR generation](./code-creation/ai-adrs)
+- [Building Rust Deserialization structs from a JSON payload](./code-creation/structs-from-json)
 
 ## Toil Reduction
 
@@ -32,3 +33,7 @@ There are a litany of other small places there applications of AI can result in 
 Examples:
 
 - [Markdown Generation](./toil-reduction/markdown-generation/)
+
+## Other Information
+
+- [Github Copilot Patterns and Exercises](https://patterns.hattori.dev)
