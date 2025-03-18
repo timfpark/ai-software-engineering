@@ -25,6 +25,7 @@ Examples:
 
 - [AI assisted ADR generation](./code-creation/ai-adrs)
 - [Building Rust Deserialization structs from a JSON payload](./code-creation/structs-from-json)
+- [Academic Paper to Code](./code-creation/paper-to-code/)
 
 ## Toil Reduction
 
